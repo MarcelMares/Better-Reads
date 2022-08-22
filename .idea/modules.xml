@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Better Reads.iml" filepath="$PROJECT_DIR$/Better Reads.iml" />
       <module fileurl="file://$PROJECT_DIR$/betterreads-data-loader/betterreads-data-loader.iml" filepath="$PROJECT_DIR$/betterreads-data-loader/betterreads-data-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-github-login-starter-master/github-auth-template.iml" filepath="$PROJECT_DIR$/spring-github-login-starter-master/github-auth-template.iml" />
     </modules>
   </component>
 </project>
